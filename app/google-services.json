@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "524245856915",
+    "firebase_url": "https://postersocialnetwork.firebaseio.com",
+    "project_id": "postersocialnetwork",
+    "storage_bucket": "postersocialnetwork.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524245856915:android:0b620102422d1c06",
+        "android_client_info": {
+          "package_name": "com.example.umairahmed.postersocialnetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524245856915-rjr5n3sr5ro02mk32cmglf6r6vsl7bl0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.umairahmed.postersocialnetwork",
+            "certificate_hash": "433601cd2c8cb8bb7b83499eb176e20fba0cb32e"
+          }
+        },
+        {
+          "client_id": "524245856915-lkgbb9k9pd0i4gol20k65mb00kevag6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2De9WcSS_mQlr80eigyNp1827iN3dl1s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524245856915-lkgbb9k9pd0i4gol20k65mb00kevag6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
